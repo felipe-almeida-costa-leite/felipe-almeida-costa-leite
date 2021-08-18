@@ -7,22 +7,22 @@
 
 ### Statitics <img width="25px" align="center" src="https://www.svgrepo.com/show/80758/report.svg"></h2>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/felipe-almeida-costa-leite">
    <img 
         align="center"
-        height="160em"
+        height="165"
         src="https://github-readme-stats.vercel.app/api?username=felipe-almeida-costa-leite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
    />
    </a>
   <a href="https://github.com/felipe-almeida-costa-leite">
    <img 
         align="center"
-        height="160em"
+        height="165"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-almeida-costa-leite&layout=compact&langs_count=7&theme=dracula"
    />
   </a>
-</div>
+</p>
 
 ### Skills <img width="30px" align="center" src="https://img-premium.flaticon.com/png/512/2817/premium/2817082.png?token=exp=1629296902~hmac=77c68c0052531e04d90fc869d861b3a3"></h2> 
 
