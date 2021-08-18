@@ -29,7 +29,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Scala" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitFlow" height="30" width="40" src="https://www.iconspng.com/clipart/gitflow/gitflow.svg">
+  <img align="center" alt="GitFlow" height="30" width="40" src="https://raw.githubusercontent.com/felipe-almeida-costa-leite/felipe-almeida-costa-leite/main/icons/GitFlow.svg">
   <img align="center" alt="Model" height="30" width="40" src="https://image.flaticon.com/icons/png/512/2103/2103675.png">
   <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
