@@ -11,7 +11,7 @@
   <a href="https://github.com/felipe-almeida-costa-leite">
    <img 
         align="center"
-        height="165"
+        height="180"
         src="https://github-readme-stats.vercel.app/api?username=felipe-almeida-costa-leite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
    />
    </a>
