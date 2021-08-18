@@ -3,7 +3,7 @@
 
 - 👨‍💻 Engenheiro de Dados na **BRLink**;
 - 🌱 Estudante de Redes de computadores, IOT, Cloud, Data Center & Wireless na **FIAP**;
-- 💙 Interesse: Python, Scala, DataBase, AWS, Spark, Kafka;
+- 💙 Interesse: Python, Data Engineer, AWS Developer;
 
 ### Statitics <img width="25px" align="center" src="https://www.svgrepo.com/show/80758/report.svg"></h2>
 
