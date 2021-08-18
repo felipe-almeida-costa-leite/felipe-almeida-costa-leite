@@ -26,25 +26,26 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Code-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Code-Scala" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
-  <img align="center" alt="Code-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Code-GitFlow" height="30" width="40" src="https://www.iconspng.com/clipart/gitflow/gitflow.svg">
-  <img align="center" alt="DB-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="DB-Postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="DB-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="DB-Hive" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="DB-Hadoop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="AWS-General" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="AWS-Lambda" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="AWS-RDS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="AWS-Dynamodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="AWS-Redshift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="AWS-Kinesis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="AWS-MSK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
-  <img align="center" alt="AWS-EMR" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="AWS-Lake" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="AWS-Step" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Scala" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitFlow" height="30" width="40" src="https://www.iconspng.com/clipart/gitflow/gitflow.svg">
+  <img align="center" alt="Model" height="30" width="40" src="https://image.flaticon.com/icons/png/512/2103/2103675.png">
+  <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Hive" height="30" width="40" src="https://raw.githubusercontent.com/felipe-almeida-costa-leite/felipe-almeida-costa-leite/main/icons/Hive.svg">
+  <img align="center" alt="Hadoop" height="30" width="40" src="https://raw.githubusercontent.com/felipe-almeida-costa-leite/felipe-almeida-costa-leite/main/icons/Hadoop.svg">
+  <img align="center" alt="General" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Lambda" height="30" width="40" src="https://raw.githubusercontent.com/felipe-almeida-costa-leite/felipe-almeida-costa-leite/main/icons/Lambda.svg">
+  <img align="center" alt="RDS" height="30" width="40" src="https://raw.githubusercontent.com/felipe-almeida-costa-leite/felipe-almeida-costa-leite/main/icons/RDS.svg">
+  <img align="center" alt="Dynamodb" height="30" width="40" src="https://raw.githubusercontent.com/felipe-almeida-costa-leite/felipe-almeida-costa-leite/main/icons/DynamoDB.svg">
+  <img align="center" alt="Redshift" height="30" width="40" src="https://raw.githubusercontent.com/felipe-almeida-costa-leite/felipe-almeida-costa-leite/main/icons/Redshift.svg">
+  <img align="center" alt="Kinesis" height="30" width="40" src="https://raw.githubusercontent.com/felipe-almeida-costa-leite/felipe-almeida-costa-leite/main/icons/Kinesis.svg">
+  <img align="center" alt="MSK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+  <img align="center" alt="EMR" height="30" width="40" src="https://raw.githubusercontent.com/felipe-almeida-costa-leite/felipe-almeida-costa-leite/main/icons/EMR.svg">
+  <img align="center" alt="Lake" height="30" width="40" src="https://raw.githubusercontent.com/felipe-almeida-costa-leite/felipe-almeida-costa-leite/main/icons/Lake.svg">
+  <img align="center" alt="Step" height="30" width="40" src="https://raw.githubusercontent.com/felipe-almeida-costa-leite/felipe-almeida-costa-leite/main/icons/Step-Functions.svg">
 </div>
  
 ### Contact :iphone:
