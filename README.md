@@ -18,7 +18,6 @@
   <a href="https://github.com/felipe-almeida-costa-leite">
    <img 
         align="center"
-        height="165"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-almeida-costa-leite&layout=compact&langs_count=7&theme=dracula"
    />
   </a>
